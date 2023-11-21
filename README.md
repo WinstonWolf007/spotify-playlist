@@ -1,6 +1,3 @@
-# 2 hours of work ;)
-
-
 ## create an app in  spotify for dev.
 https://developer.spotify.com/
 
